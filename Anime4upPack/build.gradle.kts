@@ -8,7 +8,6 @@ cloudstream {
 	
     status = 1
 
-    tvTypes = listOf( "Anime", "AnimeMovie", "Others" )
+    tvTypes = listOf( "Anime", "animelenk", "Others" )
 
-    iconUrl = "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%"
-}
+    iconUrl = "https://animelek.me/
